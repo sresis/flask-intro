@@ -35,7 +35,6 @@ def say_hello():
         <h1>Hi There!</h1>
         <form action="/greet">
           What's your name? <input type="text" name="person">
-         
           Please select a compliment:
           <input type="radio" name="compliment" value="intelligent">
           <label>Intelligent</label>
